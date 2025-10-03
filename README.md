@@ -4,6 +4,8 @@
 
 ![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/primera.png)
 
+La captura muestra la ejecución del comando docker pull alpine, lo cual tiene como propósito fundamental iniciar la descarga de la imagen base de Linux Alpine desde el Docker Hub o un registro configurado.
+
 **2.Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre**
 
 ![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/segunda.png)
