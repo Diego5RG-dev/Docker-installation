@@ -10,6 +10,9 @@ La captura muestra la ejecución del comando docker pull alpine, lo cual tiene c
 
 ![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/segunda.png)
 
+Para este apartado utilice el comando docker create y le indique que lo hiciera con alpine, sin ponerle un nombre como resultado acabo poniendole al contenedor un nombre por defecto. Respondiendo a la siguiente
+pregunta sobre si esta arrancado la respuesta es no, simplemente lo crea no lo arranca.
+
 **3.Crea un contenedor con el nombre 'dam_alp1'. ¿Como puedes acceder a él?**
 
 ![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/tercera.png)
